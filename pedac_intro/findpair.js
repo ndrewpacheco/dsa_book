@@ -43,5 +43,5 @@ function findPair(arr) {
       }
     }
   }
-  return null
+    return null
 }
